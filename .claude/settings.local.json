@@ -4,7 +4,8 @@
       "Bash(mkdir:*)",
       "Bash(git init:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\n初回コミット: 離婚記事プロジェクトの開始\n\n- プロジェクトフォルダ構成の作成\n- README、テンプレート、アイデア帳の追加\n- 下書き記事5本の作成\n  - 01_別居はじめました\n  - 02_夫の浪費\n  - 03_離婚への葛藤\n  - 04_離婚を考えるに至りました\n  - 05_転居先を探す\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\n初回コミット: 離婚記事プロジェクトの開始\n\n- プロジェクトフォルダ構成の作成\n- README、テンプレート、アイデア帳の追加\n- 下書き記事5本の作成\n  - 01_別居はじめました\n  - 02_夫の浪費\n  - 03_離婚への葛藤\n  - 04_離婚を考えるに至りました\n  - 05_転居先を探す\n\nCo-Authored-By: Claude Sonnet 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(git remote add:*)"
     ]
   }
 }
